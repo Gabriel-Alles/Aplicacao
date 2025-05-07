@@ -1,0 +1,53 @@
+2025-05-03 11:17:51,178 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:40:15,729 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:40:15,729 [INFO] Renderizando template... 
+2025-05-03 11:41:32,505 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:41:32,508 [INFO] Renderizando template... 
+2025-05-03 11:41:32,509 [INFO] Iniciando escrita do retatório .html...
+2025-05-03 11:41:32,509 [INFO] Relatório gerado com sucesso.
+2025-05-03 11:42:03,979 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:42:03,981 [INFO] Renderizando template... 
+2025-05-03 11:42:03,986 [INFO] Iniciando escrita do retatorio .html...
+2025-05-03 11:42:03,986 [INFO] Relatorio gerado com sucesso.
+2025-05-03 11:51:04,008 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:51:04,011 [INFO] Renderizando template... 
+2025-05-03 11:51:04,011 [INFO] Iniciando escrita do retatorio .html...
+2025-05-03 11:51:04,011 [INFO] Relatorio gerado com sucesso.
+2025-05-03 11:51:40,030 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:51:40,030 [INFO] Renderizando template... 
+2025-05-03 11:51:40,030 [ERROR] Ocorreu o seguinte erro; {erro}
+2025-05-03 11:51:40,030 [ERROR] Traceback (most recent call last):
+  File "C:\Users\Gabriel\Desktop\Aplicacao\templates\principal.py", line 35, in <module>
+    precos = [
+  File "C:\Users\Gabriel\Desktop\Aplicacao\templates\principal.py", line 36, in <listcomp>
+    float(produto.preco.replace('.', '').replace(',', '.'))
+ValueError: could not convert string to float: ''
+
+2025-05-03 11:52:59,859 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:52:59,859 [INFO] Renderizando template... 
+2025-05-03 11:52:59,867 [INFO] Iniciando escrita do retatorio .html...
+2025-05-03 11:52:59,868 [INFO] Relatorio gerado com sucesso.
+2025-05-03 11:56:38,082 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:56:38,082 [INFO] Renderizando template... 
+2025-05-03 11:56:38,082 [ERROR] Ocorreu o seguinte erro; could not convert string to float: ''
+2025-05-03 11:56:38,090 [ERROR] Traceback (most recent call last):
+  File "C:\Users\Gabriel\Desktop\Aplicacao\templates\principal.py", line 35, in <module>
+    precos = [
+  File "C:\Users\Gabriel\Desktop\Aplicacao\templates\principal.py", line 36, in <listcomp>
+    float(produto.preco.replace('.', '').replace(',', '.'))
+ValueError: could not convert string to float: ''
+
+2025-05-03 11:56:50,716 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:56:50,718 [INFO] Renderizando template... 
+2025-05-03 11:56:50,719 [ERROR] Ocorreu o seguinte erro: could not convert string to float: ''
+2025-05-03 11:56:50,719 [ERROR] Traceback (most recent call last):
+  File "C:\Users\Gabriel\Desktop\Aplicacao\templates\principal.py", line 35, in <module>
+    precos = [
+  File "C:\Users\Gabriel\Desktop\Aplicacao\templates\principal.py", line 36, in <listcomp>
+    float(produto.preco.replace('.', '').replace(',', '.'))
+ValueError: could not convert string to float: ''
+
+2025-05-03 11:57:25,675 [INFO] Lendo o arquivo .csv e preenchendo os objetos
+2025-05-03 11:57:25,675 [INFO] Renderizando template... 
+2025-05-03 11:57:25,691 [INFO] Iniciando escrita do retatorio .html...
+2025-05-03 11:57:25,691 [INFO] Relatorio gerado com sucesso.
